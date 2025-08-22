@@ -5,3 +5,6 @@ You can learn Git and GitHub through
   1. Kunal Kushwaha video
   2. https://learngitbranching.js.org/
 ----------------------------------------
+22. August .2025
+
+Today I learnt about the pull request
