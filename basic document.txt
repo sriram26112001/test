@@ -7,4 +7,4 @@ You can learn Git and GitHub through
 ----------------------------------------
 22. August .2025
 
-Today I learnt about the pull request
+Today I learnt about the Pull Request
